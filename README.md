@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## sejam bem vindos👋
+Estou estudando programacao na Alura na discplina de Tecnologia.
 <!--
 **lumityX1/lumityX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
